@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radkoff26
-- 👀 I’m interested in Android Development and Python coding
-- 🌱 I’m currently learning Java, Kotlin and Python
+- 👀 I’m interested in Android Development and Java coding
+- 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you may probably do this by DM me in Instagram (slava__radko)
 
